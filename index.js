@@ -9,4 +9,9 @@ let employeeRecord={
        timeOutEvents: []
 }
 return employeeRecord;
+<<<<<<< HEAD
 }
+=======
+
+}
+>>>>>>> 406f8aea509edc5b397c17d3763e002594334cf5
